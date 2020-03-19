@@ -2,7 +2,7 @@ package com.javarush.task.task35.task3513;
 
 import javax.swing.*;
 
-//точка входа в приложение
+//Точка входа в приложение
 public class Main {
     public static void main(String[] args) {
         Model model = new Model();
